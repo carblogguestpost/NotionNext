@@ -135,7 +135,10 @@ const SEO = props => {
 
       {/* 搜索引擎验证 */}
       {SEO_GOOGLE_SITE_VERIFICATION && (
-        <meta name='google-site-verification' content=tyN4aMnQOhKhgw3FlCvKPORRS9lj3DxUnZD8UwSd03s />
+        <meta
+          name='google-site-verification'
+          content="tyN4aMnQOhKhgw3FlCvKPORRS9lj3DxUnZD8UwSd03s"
+        />
       )}
       {SEO_BAIDU_SITE_VERIFICATION && (
         <meta

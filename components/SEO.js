@@ -82,7 +82,7 @@ const SEO = props => {
   )
 
   const SEO_GOOGLE_SITE_VERIFICATION = siteConfig(
-    'SEO_GOOGLE_SITE_VERIFICATION',
+    'tyN4aMnQOhKhgw3FlCvKPORRS9lj3DxUnZD8UwSd03s',
     null,
     NOTION_CONFIG
   )

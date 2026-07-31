@@ -137,7 +137,7 @@ const SEO = props => {
       {SEO_GOOGLE_SITE_VERIFICATION && (
         <meta
           name='google-site-verification'
-          content="tyN4aMnQOhKhgw3FlCvKPORRS9lj3DxUnZD8UwSd03s"
+          content='tyN4aMnQOhKhgw3FlCvKPORRS9lj3DxUnZD8UwSd03s'
         />
       )}
       {SEO_BAIDU_SITE_VERIFICATION && (
